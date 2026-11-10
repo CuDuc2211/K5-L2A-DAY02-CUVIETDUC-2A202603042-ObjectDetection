@@ -22,6 +22,6 @@
 
 | Ảnh | Tình huống | Quyết định cuối | Lý do theo schema |
 | --- | --- | --- | --- |
-| `drive_...` | | | |
-| `drive_...` | | | |
-| `drive_...` | | | |
+| `drive_001` | xe bị khuất| vẫn gán theo suy luận cá nhân| |
+| `drive_049` | xe bị khuất sau cây| vẫn gán theo suy luận cá nhân| |
+| `drive_001` | không phân biệt được loại xe| gán là xe con| |
